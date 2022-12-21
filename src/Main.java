@@ -19,5 +19,11 @@ public class Main {
 
 
 
+        Planet2 Boris=new Planet2();
+        Boris.color="pink";
+        Boris.size=3498;
+        Boris.rings="1";
+        Boris.temperature="9238k";
+
     }
 }
